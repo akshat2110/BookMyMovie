@@ -1,1 +1,1 @@
-# BookMyMovie - An online movie booking system using PHP HTML CSS Bootstrap SQL
+# BookMyMovie - An online movie booking system using PHP, HTML, CSS, Bootstrap, SQL
