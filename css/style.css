@@ -1,0 +1,24 @@
+#page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap {
+    padding: 2.5rem;
+}
+
+#container-content{
+    margin: auto;
+}
+
+.alert{
+    text-align: center;
+}
+  
+#inner-div {
+    display: inline-block;
+    margin: 50px auto;
+    padding: 3px;
+  }
+
+
